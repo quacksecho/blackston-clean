@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Black Stone"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#800080"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#800080"
+menu_text_active = "#800080"
+menu_title = "#800080"
+
+# Home sections
+home_section_odd = "#EFEFEF"
+home_section_even = "#AFAFAF"

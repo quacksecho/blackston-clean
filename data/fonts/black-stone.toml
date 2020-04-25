@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Black Stone"
+
+# Optional Google font URL
+google_fonts = "Montserrat:300,700|Source+Sans+Pro:300,300italic,700|Source+Code+Pro"
+
+# Font families
+heading_font = "Source Code Pro"
+body_font = "Source Sans Pro"
+nav_font = "Source Sans Pro"
+mono_font = "Source Code Pro"
