@@ -5,14 +5,14 @@ name = "Black Stone"
 light = true
 
 # Primary
-primary = "#800080"
+primary = "#700070"
 
 # Menu
 menu_primary = "#fff"
-menu_text = "#800080"
-menu_text_active = "#800080"
-menu_title = "#800080"
+menu_text = "#606060"
+menu_text_active = "#606060"
+menu_title = "#606060"
 
 # Home sections
-home_section_odd = "#EFEFEF"
-home_section_even = "#AFAFAF"
+home_section_odd = "#F8F8F8"
+home_section_even = "#EFEFEF"

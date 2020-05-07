@@ -24,15 +24,15 @@ organizations:
   url: ""
 role: PhD Student in Epidemiology and Biostatistics
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
-- icon: twitter
+- icon: orcid
   icon_pack: fab
-  link: https://twitter.com/BlackstonWalker
-- icon: github
+  link: https://orcid.org/0000-0002-9153-1549
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/jwblackston
+  link: https://www.linkedin.com/in/j-blackston-msph/
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@blackstonjw
 superuser: true
 user_groups:
 - Researchers
