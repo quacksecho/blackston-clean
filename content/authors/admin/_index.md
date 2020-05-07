@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio:
+bio: Epidemiologist, Pre-Medical Student
 Education:
   courses:
   - course: PhD Fellowship in Epidemiology
