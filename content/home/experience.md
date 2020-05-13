@@ -22,10 +22,8 @@ date_format = "Jan 2006"
   title = "COVID-19 Relief Epidemiologist"
   company = "Louisiana Department of Health, Department of Infectious Diseases"
   company_url = "http://www.ldh.la.gov"
-  location = ""
   date_start = "2020-04-21"
   date_end = ""
-  description = ""
   Responsibilities include:
   
   * Data cleaning of electronic lab reports
@@ -38,24 +36,22 @@ date_format = "Jan 2006"
   title = "Intern"
   company = "VIA LINK 2-1-1" 
   company_url = "https://vialink.org/"
-  location = ""
   date_start = "2020-04-01"
   date_end = ""
-  description = ""
   Responsibilities include:
   
   * Analyzing data and building dashboards in Power BI
   * Contacting CEO's of other 2-1-1 services across United States
   * Integrating CDC/National open-source data with our dashboard
-  
+  """
 
 [[experience]]
+
   title = "PhD Fellow"
   company = "Tulane University"
-  company_url = ""
-  location = "New Orleans, LA"
   date_start = "2019-08-31"
   date_end = "2020-05-01"
-  description = """Epidemiology Department Research Council PhD Fellowship, mentored by: Amanda Anderson, PhD and Andrew Chapple, PhD and biostatistician at Louisiana State University"""
+  description = """Epidemiology Department Research Council PhD Fellowship, mentored by: Amanda Anderson, PhD and Andrew Chapple, PhD and biostatistician at Louisiana State University
+  """
 
 +++
