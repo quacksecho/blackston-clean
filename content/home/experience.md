@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   company_url = "http://www.ldh.la.gov"
   date_start = "2020-04-21"
   date_end = ""
-  Responsibilities include:
-  
+  Responsibilities:
   * Data cleaning of electronic lab reports
   * Automate reporting in R
   * Analyze proprietary data; Mapping and visualizing results
@@ -39,19 +38,16 @@ date_format = "Jan 2006"
   date_start = "2020-04-01"
   date_end = ""
   Responsibilities include:
-  
   * Analyzing data and building dashboards in Power BI
   * Contacting CEO's of other 2-1-1 services across United States
   * Integrating CDC/National open-source data with our dashboard
   """
 
 [[experience]]
-
   title = "PhD Fellow"
   company = "Tulane University"
   date_start = "2019-08-31"
   date_end = "2020-05-01"
   description = """Epidemiology Department Research Council PhD Fellowship, mentored by: Amanda Anderson, PhD and Andrew Chapple, PhD and biostatistician at Louisiana State University
   """
-
 +++
