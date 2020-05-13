@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-04-21"
   date_end = ""
   description = """
-  Responsibilities:
+  Responsibilities
   * Data cleaning of electronic lab reports
   * Automate reporting in R
   * Analyze proprietary data; Mapping and visualizing results
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   date_start = "2020-04-01"
   date_end = ""
   description: """
-  Responsibilities:
+  Responsibilities
   * Analyzing data and building dashboards in Power BI
   * Contacting CEO's of other 2-1-1 services across United States
   * Integrating CDC/National open-source data with our dashboard
