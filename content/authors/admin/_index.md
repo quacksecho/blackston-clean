@@ -1,28 +1,29 @@
 ---
 authors:
 - admin
-bio: I am a first year PhD student in Epidemiology and Biostatistics at Tulane University. My research interests lie at the intersection of epidemiological methods, causal inference, nutrition, and cardiometabolic kidney diseases.
-education:
+bio: Epidemiologist, Pre-Medical Student
+Education:
   courses:
-  - course: PhD in Epidemiology
+  - course: PhD Fellowship in Epidemiology
     institution: Tulane University
-    year: 2019-2022 (expected)
+    year: 2019-2020
   - course: M.S.P.H in Epidemiology
-    institution: University of Alabama (Birmingham School of Public Health)
+    institution: University of Alabama-Birmingham School of Public Health
     year: 2018
   - course: B.A. in English and Philosophy
     institution: Birmingham-Southern College
     year: 2015
 email: ""
 interests:
-- Bayesian inference
-- N-of-1 trials
-- Machine learning for modeling -omics data
+- Cardiometabolic dysfunction 
+- Chronic kidney disease 
+- Endocrinology
+- Precision medicine
 name: Walker Blackston
 organizations:
-- name: Tulane University
-  url: ""
-role: PhD Student in Epidemiology and Biostatistics
+- name: Louisiana Department of Health, Infectious Disease Epidemiology
+  url: "http://ldh.la.gov/coronavirus/"
+role: COVID-19 Relief Worker
 social:
 - icon: orcid
   icon_pack: fab
@@ -39,6 +40,6 @@ user_groups:
 - Visitors
 ---
 
-I am a first year PhD student in Epidemiology and Biostatistics at Tulane University. My research interests lie at the intersection of epidemiological methods, causal inference, nutrition, and cardiometabolic kidney diseases.
+I am an epidemiologist and data analyst for the State of Louisiana with advanced biostatistical training from both Univerity of Alabama at Birmingham and Tulane University. I am an aspiring writer (nonfiction and long-form journalism) and professor of medicine interested in cultivating a deep life of family and work. 
 
-I am a Mississippian who loves his partner, retriever, and being generally skeptical about things.
+Proud Mississippian transplant to New Orleans who loves his fiance, his retriever, and updating his priors. 
