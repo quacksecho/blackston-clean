@@ -7,10 +7,9 @@ title: Selected Publications
 #   3 = Card
 #   4 = Citation
 view: 2
-
 header: "Comparison of Aggregated N-of-1 Trials with Parallel and Crossover Randomized Controlled Trials Using Simulation Studies"
-  caption: ""
-  image: ""
+  caption: 
+  image: 
   
 header:"Gut microbiota diversity is associated with cardiorespiratory fitness in post‐primary treatment breast cancer survivors"
   caption: 
