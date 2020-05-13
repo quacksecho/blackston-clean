@@ -37,7 +37,10 @@ date_format = "Jan 2006"
   title = "Intern"
   company = "VIA LINK 2-1-1" 
   company_url = "https://vialink.org/"
+  location = ""
   date_start = "2020-04-01"
+  date_end = ""
+  description = ""
   Responsibilities include:
   
   * Analyzing data and building dashboards in Power BI
