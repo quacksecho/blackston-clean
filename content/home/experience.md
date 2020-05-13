@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "COVID-19 Relief Epidemiologist"
   company = "Louisiana Department of Health, Department of Infectious Diseases"
@@ -24,7 +25,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2020-04-21"
   date_end = ""
-  description = """
+  description = ""
   Responsibilities include:
   
   * Data cleaning of electronic lab reports
