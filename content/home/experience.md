@@ -18,27 +18,40 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "COVID-19 Relief Epidemiologist"
+  company = "Louisiana Department of Health, Department of Infectious Diseases"
+  company_url = "http://www.ldh.la.gov"
+  location = ""
+  date_start = "2020-04-21"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Data cleaning of electronic lab reports
+  * Automate reporting in R
+  * Analyze proprietary data; Mapping and visualizing results
+  * Inform policy decisions at state level for COVID-19 response
   """
+  
+[[experience]]
+  title = "Intern"
+  company = "VIA LINK 2-1-1" 
+  company_url = "https://vialink.org/"
+  date_start = "2020-04-01"
+  Responsibilities include:
+  
+  * Analyzing data and building dashboards in Power BI
+  * Contacting CEO's of other 2-1-1 services across United States
+  * Integrating CDC/National open-source data with our dashboard
+  
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "PhD Fellow"
+  company = "Tulane University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "New Orleans, LA"
+  date_start = "2019-08-31"
+  date_end = "2020-05-01"
+  description = """Epidemiology Department Research Council PhD Fellowship, mentored by: Amanda Anderson, PhD and Andrew Chapple, PhD and biostatistician at Louisiana State University"""
 
 +++
