@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = "https://vialink.org/"
   date_start = "2020-04-01"
   date_end = ""
-  description: """
+  description = """
   Responsibilities
   * Analyzing data and building dashboards in Power BI
   * Contacting CEO's of other 2-1-1 services across United States
