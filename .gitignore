@@ -3,3 +3,6 @@
 
 # Hugo
 resources/
+
+# Generated site
+public/
