@@ -2,7 +2,7 @@
 title: 'On working from home dress codes'
 date: Wednesday, 20 May 2020 13:00:00 +0000
 draft: false
-tags: ['attention', 'grad school', 'mental health', 'productivity', 'studying', 'Uncategorized']
+tags: ['productivity', 'habits', 'COVID-19']
 ---
 
 ![man wearing blue suit](https://images.unsplash.com/photo-1426523038054-a260f3ef5bc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80)
