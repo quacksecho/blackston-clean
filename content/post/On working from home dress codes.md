@@ -1,6 +1,6 @@
 ---
 title: 'On working from home dress codes'
-date: Wednesday, 20 May 2020 13:00:00 +0000
+date: Wed, 20 May 2020 13:00:00 +0000
 draft: false
 tags: ['productivity', 'habits', 'COVID-19']
 ---
