@@ -5,7 +5,7 @@ name = "Black Stone"
 light = true
 
 # Primary
-primary = "##003366"
+primary = "#003366"
 
 # Menu
 menu_primary = "#fff"
