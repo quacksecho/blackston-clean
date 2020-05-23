@@ -20,7 +20,7 @@ copyright = "&copy; 2020"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "black_stone"
+theme = "black-stone"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
