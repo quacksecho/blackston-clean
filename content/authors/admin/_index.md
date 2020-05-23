@@ -42,4 +42,4 @@ user_groups:
 
 I am an epidemiologist and data analyst for the State of Louisiana with advanced biostatistical training from both Univerity of Alabama at Birmingham and Tulane University. I am an aspiring writer (nonfiction and long-form journalism) and professor of medicine interested in cultivating a deep life of family and work. 
 
-Proud Mississippian transplant to New Orleans who loves his fiance, his retriever, and updating his priors. 
+Proud Mississippian transplant to New Orleans who loves his fiance, his golden retriever, and updating his priors. 
